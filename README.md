@@ -11,11 +11,10 @@ PIMA INDIAN DIABETES DATASET:
 - Glucose levels
 - Insulin levels
 - Family history of diabetes
-- Physical activity level
-- Dietary habits
+- Pregnancy
 
 ## Model
-The model is built using Python and popular machine learning libraries such as scikit-learn, TensorFlow. It employs a variety of classification algorithms such as Logistic Regression, Random Forest, Gradient Boosting to predict the likelihood of diabetes. The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
+The model is built using Python and popular machine learning libraries such as scikit-learn, TensorFlow. It employs a variety of classification algorithms such as Logistic Regression, Random Forest, Gradient Boosting to predict the likelihood of diabetes. Use Ensemble Model  The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
 ## Usage
 1. **Data Preprocessing**: Before training the model, it's essential to preprocess the dataset, which may involve handling missing values, feature scaling, and encoding categorical variables.
